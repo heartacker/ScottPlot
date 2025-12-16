@@ -1,0 +1,68 @@
+<Solution>
+  <Folder Name="/Advanced Tests/">
+    <Project Path="ScottPlot5 Benchmarks/Benchmark.csproj" />
+    <Project Path="ScottPlot5 Tests/Graphical Test Runner/Graphical Test Runner.csproj" />
+  </Folder>
+  <Folder Name="/Controls/">
+    <Project Path="ScottPlot5 Controls/ScottPlot.Avalonia/ScottPlot.Avalonia.csproj" />
+    <Project Path="ScottPlot5 Controls/ScottPlot.Blazor/ScottPlot.Blazor.csproj" />
+    <Project Path="ScottPlot5 Controls/ScottPlot.Eto/ScottPlot.Eto.csproj" />
+    <Project Path="ScottPlot5 Controls/ScottPlot.Maui/ScottPlot.Maui.csproj" />
+    <Project Path="ScottPlot5 Controls/ScottPlot.OpenGL/ScottPlot.OpenGL.csproj" />
+    <Project Path="ScottPlot5 Controls/ScottPlot.WinForms/ScottPlot.WinForms.csproj" />
+    <Project Path="ScottPlot5 Controls/ScottPlot.WinUI/ScottPlot.WinUI.csproj" />
+    <Project Path="ScottPlot5 Controls/ScottPlot.WPF/ScottPlot.WPF.csproj" />
+  </Folder>
+  <Folder Name="/Demo/">
+    <Project Path="ScottPlot5 Demos/Avalonia Demo/Avalonia Demo.csproj" />
+    <Project Path="ScottPlot5 Demos/ScottPlot5 Blazor/Sandbox.Blazor.WebAssembly.csproj">
+      <Build Project="false" />
+    </Project>
+    <Project Path="ScottPlot5 Demos/ScottPlot5 WinForms Demo/WinForms Demo.csproj" />
+    <Project Path="ScottPlot5 Demos/ScottPlot5 WPF Demo/WPF Demo.csproj" />
+  </Folder>
+  <Folder Name="/Dev/">
+    <File Path="../../CHANGELOG.md" />
+  </Folder>
+  <Folder Name="/Sandbox/">
+    <Project Path="ScottPlot5 Sandbox/Sandbox.Avalonia.Desktop/Sandbox.Avalonia.Desktop.csproj">
+      <Build Project="false" />
+    </Project>
+    <Project Path="ScottPlot5 Sandbox/Sandbox.Blazor/Sandbox.Blazor.csproj">
+      <Build Project="false" />
+    </Project>
+    <Project Path="ScottPlot5 Sandbox/Sandbox.Console/Sandbox.Console.csproj">
+      <Build Project="false" />
+    </Project>
+    <Project Path="ScottPlot5 Sandbox/Sandbox.Eto/Sandbox.Eto.csproj">
+      <Build Project="false" />
+    </Project>
+    <Project Path="ScottPlot5 Sandbox/Sandbox.Maui/Sandbox.Maui.csproj">
+      <Build Project="false" />
+    </Project>
+    <Project Path="ScottPlot5 Sandbox/Sandbox.UnoPlatform/Sandbox.UnoPlatform.csproj">
+      <Build Project="false" />
+    </Project>
+    <Project Path="ScottPlot5 Sandbox/Sandbox.WebApi/Sandbox.WebApi.csproj">
+      <Build Project="false" />
+    </Project>
+    <Project Path="ScottPlot5 Sandbox/Sandbox.WinForms/Sandbox.WinForms.csproj">
+      <Build Solution="Release|*" Project="false" />
+    </Project>
+    <Project Path="ScottPlot5 Sandbox/Sandbox.WinForms3D/Sandbox.WinForms3D.csproj">
+      <Build Project="false" />
+    </Project>
+    <Project Path="ScottPlot5 Sandbox/Sandbox.WinFormsFinance/Sandbox.WinFormsFinance.csproj">
+      <Build Solution="Release|*" Project="false" />
+    </Project>
+    <Project Path="ScottPlot5 Sandbox/Sandbox.WinUI.Desktop/Sandbox.WinUI.Desktop.csproj">
+      <Build Project="false" />
+    </Project>
+    <Project Path="ScottPlot5 Sandbox/Sandbox.WPF/Sandbox.WPF.csproj">
+      <Build Solution="Release|*" Project="false" />
+    </Project>
+  </Folder>
+  <Project Path="ScottPlot5 Cookbook/ScottPlot Cookbook.csproj" />
+  <Project Path="ScottPlot5 Tests/Unit Tests/ScottPlot Unit Tests.csproj" />
+  <Project Path="ScottPlot5/ScottPlot.csproj" />
+</Solution>
